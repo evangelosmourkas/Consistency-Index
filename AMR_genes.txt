@@ -1,0 +1,11 @@
+.\AMR_genes\aad9
+.\AMR_genes\ant(6)-Ia
+.\AMR_genes\ant(6)-lb
+.\AMR_genes\ant-like1
+.\AMR_genes\ant-like2
+.\AMR_genes\aph(3)-IIIa
+.\AMR_genes\blaOXA-61
+.\AMR_genes\hpt
+.\AMR_genes\lnuC
+.\AMR_genes\sat-4
+.\AMR_genes\tetO
