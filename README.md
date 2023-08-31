@@ -92,7 +92,7 @@ write.table(outputs, file = "AMR_CI_Outputs.txt", quote = FALSE, sep = "\t", row
 ![CI_Mourkas_et_al_2019](https://github.com/evangelosmourkas/Consistency-Index/assets/73548463/a0a9e030-bb01-404b-b4de-e14f4262d446)
 
 ## Example 2 - Consistency index virulence vs core genes in _Escherichia coli_
-![Mageiros_et_al](https://github.com/evangelosmourkas/Consistency-Index/assets/73548463/7d1c4e6a-041f-4385-bd3a-794976463b6a)
+![Mageiros_et_al](https://github.com/evangelosmourkas/Consistency-Index/assets/73548463/6b3351ed-b9ee-4b5d-89f9-c74b9040bf41)
 
 # How to cite
 Mourkas, E., Florez-Cuadrado, D., Pascoe, B., Calland, J.K., Bayliss, S.C., Mageiros, L., Méric, G., Hitchings, M.D., Quesada, A., Porrero, C., Ugarte-Ruiz, M., Gutiérrez-Fernández, J., Domínguez, L. and Sheppard, S.K. (2019), **Gene pool transmission of multidrug resistance among _Campylobacter_ from livestock, sewage and human disease**. Environ Microbiol, 21: 4597-4613. https://doi.org/10.1111/1462-2920.14760
