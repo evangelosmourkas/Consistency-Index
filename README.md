@@ -89,7 +89,7 @@ for(i in 1:length(f2$V1)){
 write.table(outputs, file = "AMR_CI_Outputs.txt", quote = FALSE, sep = "\t", row.names = FALSE, col.names = FALSE)
 ```
 ## Example 1 - Consistency index AMR vs core genes in _Campylobacter_ 
-![CI_Mourkas_et_al_2019](https://github.com/evangelosmourkas/Consistency-Index/assets/73548463/e70d182e-a848-4d43-85bc-673ec9f1dcd7)
+![CI_Mourkas_et_al_2019](https://github.com/evangelosmourkas/Consistency-Index/assets/73548463/a0a9e030-bb01-404b-b4de-e14f4262d446)
 
 ## Example 2 - Consistency index virulence vs core genes in _Escherichia coli_
 ![Mageiros_et_al](https://github.com/evangelosmourkas/Consistency-Index/assets/73548463/7d1c4e6a-041f-4385-bd3a-794976463b6a)
