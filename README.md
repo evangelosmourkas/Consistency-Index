@@ -13,7 +13,7 @@ Each directory has the following:
 * **_AMR_genes_**: directory with AMR gene multi-fasta files
 * **_Core_genes.txt_**: path to Core_genes directory
 * **_AMR_genes.txt_**: path to AMR_genes directory
-* **_ML_tree.nwk_**: ML tree rotted at midpoint root
+* **_ML_tree.nwk_**: ML tree rooted at midpoint root
 
 # Consistency Index script
 ## Libraries
@@ -25,7 +25,8 @@ Each directory has the following:
 ```setwd("/Path/to/working/directory")```
 
 ## Import and read files
-```core_genes_file <- "Core_genes.txt"
+```
+core_genes_file <- "Core_genes.txt"
 f1 <- read.table(core_genes_file, stringsAsFactors = F)
 
 AMR_fasta_file <- "AMR_genes.txt"
@@ -35,7 +36,8 @@ ML_tree <- "ML_tree.nwk"
 phyloTree = midpoint(read.tree(ML_tree))
 ```
 ### Core genes section
-```outputs_core <- NULL
+```
+outputs_core <- NULL
 
 for(i in 1:length(f1$V1)){
   
@@ -62,7 +64,8 @@ for(i in 1:length(f1$V1)){
 write.table(outputs_core, file = "Core_CI_Outputs.txt", quote = FALSE, sep = "\t", row.names = FALSE, col.names = FALSE)
 ```
 ### AMR genes section
-```outputs <- NULL
+```
+outputs <- NULL
 
 for(i in 1:length(f2$V1)){
   
