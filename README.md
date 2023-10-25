@@ -4,7 +4,7 @@ The script has been provided as an rscript and can be run locally in Rstudio or 
 
 ## Publication
 The methodology underlying the use of the script has been detailed in the article "Gene pool transmission of multidrug resistance among _Campylobacter_ from livestock, sewage and human disease" published in Environmental Microbiology,
-and in the article "Genome evolution and the emergence of pathogenicity in avian _Escherichia coli_". Please refer to citation information at the bottom of this document.
+and in the article "Genome evolution and the emergence of pathogenicity in avian _Escherichia coli_" published in Nature Communications. Please refer to citation information at the bottom of this document.
 
 ## Files summary
 Two different datasets have been used to quantify the consistency index of two different sets of genes on the same phylogeny. The provided datasets used in the manuscript have been provided as input multi-fasta alignments for each gene of interest.
